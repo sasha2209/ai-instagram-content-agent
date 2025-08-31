@@ -1,0 +1,24 @@
+{
+  "name": "ai-instagram-content-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasha2209/ai-instagram-content-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasha2209/ai-instagram-content-agent/issues"
+  },
+  "homepage": "https://github.com/sasha2209/ai-instagram-content-agent#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.56.1",
+    "groq-sdk": "^0.30.0"
+  }
+}
