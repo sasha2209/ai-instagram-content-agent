@@ -19,6 +19,8 @@
   "homepage": "https://github.com/sasha2209/ai-instagram-content-agent#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.56.1",
-    "groq-sdk": "^0.30.0"
+    "creatomate": "^1.2.1",
+    "groq-sdk": "^0.30.0",
+    "pexels": "^1.4.0"
   }
 }
